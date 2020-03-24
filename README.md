@@ -1,7 +1,7 @@
 # three-gltf
 
-# update models v1
+# update models v2
 
 
 
-![v1.png](/Users/pixelwill/Desktop/v1.png)
+![Parrot-img.png](/Users/pixelwill/will/技術研究/three-gltf/img/Parrot-img.png)
