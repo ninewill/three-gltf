@@ -19,7 +19,7 @@ function init() {
 
   //背景顏色
   const loaderBg = new THREE.TextureLoader();
-  const bgTexture = loaderBg.load('../textures/Rainforest.jpg');
+  const bgTexture = loaderBg.load('textures/Rainforest.jpg');
   scene.background = bgTexture;
   // scene.background = new THREE.Color( 0x222222 );
 
